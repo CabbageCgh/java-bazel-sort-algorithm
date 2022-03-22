@@ -1,12 +1,16 @@
-# java_bazel_exchange_sort
-
-#build
+## build
+```
 bazel build //src/main/java/com/example/sort:app_deploy.jar
+```
 
-#test
+## test
+```
 bazel test //src/main/java/com/example/sort/test/...
+```
 
-#run
+## run
+```
 java -jar bazel-bin/src/main/java/com/example/sort/app_deploy.jar
+```
 
 
