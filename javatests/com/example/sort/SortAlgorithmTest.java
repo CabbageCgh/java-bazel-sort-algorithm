@@ -1,6 +1,5 @@
-package com.example.sort.test;
+package com.example.sort;
 
-import com.example.sort.SortAlgorithm;
 import org.junit.Assert;
 import org.junit.Test;
 
